@@ -17,7 +17,7 @@ pycparser==2.20
 pycrypto==2.6.1
 pygame==1.9.6
 Pygments==2.20.0
-pyOpenSSL==19.1.0
+pyOpenSSL==26.0.0
 PySocks==1.7.1
 selenium==3.141.0
 six==1.14.0
